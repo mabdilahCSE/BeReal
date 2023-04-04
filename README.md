@@ -2,7 +2,8 @@
 
 By: **Mohamed Abdilahi**
 
-This project is a clone of the BeReal app, a social networking platform where users can share their stories and experiences with others. The goal of this project is to create a similar platform that provides the same features and user experience as the original app. Integrated and used a Parse server for login authentication and account creation, Create and fetch photo data from the parse server and used the photo library API to select and upload a photo to the server
+This project is a clone of the BeReal app, a social networking platform where users can share their stories and experiences with others. The goal of this project is to create a similar platform that provides the same features and user experience as the original app. Integrated and used a Parse server for login authentication and account creation, Create and fetch photo data from the parse server and used the photo library API to select and upload a photo to the server. 
+Parse Server Created Through [Back4App](https://www.back4app.com/), used Parse Swift SDK to access parse server backend
 
 
 ## Features:
